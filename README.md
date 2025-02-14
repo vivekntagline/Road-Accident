@@ -5,7 +5,7 @@
 This repository contains an exploratory data analysis (EDA) and visualization of road accident data. The analysis aims to uncover key patterns and insights related to accidents, helping to understand factors influencing road safety.  
 
 ## Dataset  
-The dataset used for this analysis is sourced from Kaggle. You can access it here: [Road Accident Dataset](https://www.kaggle.com/datasets/xavierberge/road-accident-dataset/data)  
+The dataset used for this analysis is sourced from Kaggle. You can access it here: [Road Accident Dataset](https://www.kaggle.com/datasets/xavierberge/road-accident-dataset/data){:target="_blank"}   
 
 ## Contents  
 
@@ -13,7 +13,7 @@ The dataset used for this analysis is sourced from Kaggle. You can access it her
 - **Dashboard & Story**: A comprehensive document featuring all sheets, dashboards, and a story presented as a questionnaire format to facilitate insights.  
 - **Questions & Insights PDF**: A set of questions designed to extract meaningful insights from the data.  
 - **Google Report**: A detailed report documenting the findings and analysis. You can view it here:  
-  [Google Report](https://docs.google.com/document/d/1ZeQiM_WD8jKCqwzhHgLYepqopYHI3gXz_-C8aklTC4w/edit?usp=sharing)  
+  [Google Report](https://docs.google.com/document/d/1ZeQiM_WD8jKCqwzhHgLYepqopYHI3gXz_-C8aklTC4w/edit?usp=sharing){:target="_blank"}   
 
 ## Key Insights  
 
