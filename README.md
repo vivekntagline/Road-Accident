@@ -2,6 +2,9 @@
 
 This repository contains an exploratory data analysis (EDA) and visualization of road accident data. The analysis aims to uncover key patterns and insights related to accidents, helping to understand factors influencing road safety.  
 
+## Dataset  
+The dataset used for this analysis is sourced from Kaggle. You can access it here: [Road Accident Dataset](https://www.kaggle.com/datasets/xavierberge/road-accident-dataset/data)  
+
 ## Contents  
 
 - **Jupyter Notebook**: Contains the exploratory data analysis (EDA), including bar charts and other visualizations to highlight trends in the dataset.  
@@ -19,3 +22,5 @@ This repository contains an exploratory data analysis (EDA) and visualization of
 - Open the Jupyter Notebook to explore the EDA and visualizations.  
 - Refer to the Dashboard & Story PDF for a structured presentation of the findings.  
 - Use the Questions & Insights PDF for a list of questions.
+
+- ![Road-accident](https://github.com/user-attachments/assets/6a0cd54d-acb6-4e67-871a-5f50330fd7ac)
